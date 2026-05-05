@@ -1,0 +1,5 @@
+package edu.pucp.mechatronics.zone.repository;
+
+public interface ZoneRepository {
+
+}

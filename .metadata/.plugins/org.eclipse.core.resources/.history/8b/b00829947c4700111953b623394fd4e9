@@ -1,0 +1,5 @@
+package edu.pucp.mechatronics.zone.service;
+
+public class ZoneService {
+
+}

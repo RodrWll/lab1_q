@@ -1,0 +1,5 @@
+package edu.pucp.mechatronics.zone.entity;
+
+public class Zone {
+
+}
